@@ -1,0 +1,3 @@
+# Executar 
+
+./exec.sh
